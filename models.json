@@ -192,6 +192,17 @@
     "sha256": "4f9ad7e24043cf3ec19002737019f0798ebe1cecbfecba2e047ea07b92721ac0"
   },
   {
+    "license_name": "Deepseek License",
+    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "name": "DeepSeek-Coder-V2-Lite-Instruct",
+    "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "urls": [
+      "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF/blob/main/DeepSeek-Coder-V2-Lite-Instruct-Q6_K.gguf"
+    ],
+    "sha256": "1ff79f43ad5728d3179bf8fa7ee2993652f4306d6aeca9c35055f4f5b7b864cd"
+  },
+  {
     "name": "Nomic-Embed-Text",
     "provider_url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF",
     "license_name": "Apache 2.0",
